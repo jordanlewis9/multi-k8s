@@ -16,7 +16,7 @@ spec:
     - hosts:
         - jordannlewis.com
         - www.jordannlewis.com
-        secretName: jordannlewis-com
+      secretName: jordannlewis-com
   rules:
     - host: jordannlewis.com
       http:
